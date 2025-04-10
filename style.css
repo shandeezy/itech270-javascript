@@ -1,0 +1,9 @@
+
+.html-attributes img{
+    width: 300px;
+    height:calc((1080/1920) * 300px)
+}
+
+.css{
+    background-color: white;
+}
