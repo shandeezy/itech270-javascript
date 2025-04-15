@@ -65,6 +65,8 @@
  * below use the command document.querySelector('section') and then the command document.querySelectorAll('section)
  * note the difference
  */
+// const section= document.querySelectorAll('section');
+// console.log(section);
 
 /**
  * functions
@@ -74,11 +76,13 @@
  * not run because it is a function and only runs when the function is called.
  */
 
-// console.log("hello world")
+// console.log("hello world");
 
 // const myFunc = () =>{
-//     console.log("foo bar")
+//     console.log("foo bar");
 // }
+// myFunc();
+
 
 /**
  * All functions have the same parts.  the name, the parameters, the body.  In the function below, "myFunc" 
@@ -118,7 +122,7 @@
 
 // setTimeout(()=>{
 //     console.log("Set timeout perfoms the function porvided as a callback, after X milliseconds.  X is the number provided as the second parameter")
-// }, 1)
+// }, 1) 
 
 /**
  * Calling a function vs referencing a function

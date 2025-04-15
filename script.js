@@ -72,4 +72,4 @@ const _destoryTable = () =>{
     const table = document.querySelector('#created-table');
     table.remove()
 }
-
+ 
