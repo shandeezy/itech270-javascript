@@ -7,3 +7,9 @@
 .css{
     background-color: white;
 }
+#toggle-box{
+    background-color: lightgray;
+}
+#toggle-box #toggle-content{
+    display: none;
+}
